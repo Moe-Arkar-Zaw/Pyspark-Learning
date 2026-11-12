@@ -17,7 +17,7 @@ setx PATH "%JAVA_HOME%\bin;%PATH%"
 3. Reopen terminal and check: java --version
 
 Note: Note:
-This is usually a Java setup issue, not a Python/PySpark code bug.
+This is usually a Java setup issue(without JVM yet), not a Python/PySpark code bug.
 
 ---
 ## 2. Quick Spark XLS / Seperator Fix
@@ -39,6 +39,4 @@ df.show()'
 Note:
 1. .xls extension does not always mean it is a valid Excel file.
 2. Always specify the actual separator or file format.
-
----
-## 3. 
+--

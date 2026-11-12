@@ -25,9 +25,9 @@ The goal of this learning folder is to build a strong foundation in big data pro
 - `pyspark_filter_operations.ipynb` - Filtering and conditional logic
 - `pyspark_groupby_aggregated_functions.ipynb` - GroupBy and aggregation techniques
 - `pyspark_handling_missing_values.ipynb` - Missing data handling in Spark
-- `pysaprk_with_databricks.ipynb` - Databricks workflow basics
+- `pyspark_with_databricks.ipynb` - Databricks workflow basics
 - `pyspark_mllib.ipynb` - MLlib fundamentals
-- `pyspark_muti_linear_regression.ipynb` - Multi-linear regression using Spark ML
+- `pyspark_multi_linear_regression.ipynb` - Multi-linear regression using Spark ML
 
 ## Learning Goals
 
@@ -37,7 +37,7 @@ The goal of this learning folder is to build a strong foundation in big data pro
 - Handle missing data efficiently in Spark
 - Explore machine learning with Spark MLlib
 - Gain practical exposure to Databricks-based Spark workflows
-
+    
 ## Tools and Technologies
 
 - Python
